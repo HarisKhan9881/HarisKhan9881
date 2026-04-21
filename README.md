@@ -8,7 +8,7 @@ With 10+ years of experience and a dedicated development team, I help businesses
 
 I bring together:
 
-- **Deep expertise in financial systems** (Insurance & General Ledger)
+- **Deep expertise in software development life cycle
 - **Strong full-stack engineering capabilities**
 - **A team-driven approach** for end-to-end product delivery
 
